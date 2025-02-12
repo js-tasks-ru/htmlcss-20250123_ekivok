@@ -1,6 +1,6 @@
 @import "./normalize.css";
 @import '../fonts/fonts.css';
-
+@import '../../03-lection1/01-button/button.css';
 
 :root {
     --white: #ffffff;
@@ -20,10 +20,10 @@
     --success: var(--blue);
 
     --primary: var(--blue);
-    --primary-active: var(--blue-2);
+    --primary-hover: var(--blue-2);
 
     --secondary: var(--purple);
-    --secondary-active: var(--purple-2);
+    --secondary-hover: var(--purple-2);
 
 }
 
